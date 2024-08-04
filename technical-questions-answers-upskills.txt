@@ -1,3 +1,10 @@
+Intro
+Why We Need Custom Hooks in React
+Essential Rules for Creating Custom Hooks
+Step-by-Step Guide to Creating a Custom Hook
+How to Use Custom Hooks to Fetch Data
+Error Handling in Custom Hooks
+============================
 #JavaScript Coding question for interviews.
 From recent interview experience, I listed down all coding question which was asked to me and some more questions which might be helpful. 
 1. Write a function to reverse each word in a string.
