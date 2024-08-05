@@ -26,7 +26,6 @@ IMPORTANT: use the URL for some state (filters, pagination, etc.), not useState
 Keep useEffect simple: one concern per useEffect
 IMPORTANT: instead of fetching data in useEffect, consider alternatives
 IMPORTANT: improve overall structure with components, custom hooks and utility functions
-Outro
 ============================
 Which one's gonna win??
 🌐 Fetch vs. Axios: A Comparative Overview 🌐
