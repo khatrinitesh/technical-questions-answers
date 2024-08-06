@@ -135,7 +135,6 @@ Sharing frequently asked Javascript questions 🚀
 16. Clone an Object
 17. Debouncing and Throttling
 18. Implement clearAllTimeout()
-Follow: Alpna P. for more related content!
 ============================
 Killer Tools for Frontend Developers 💥💯
 1. Getpixelsnap
@@ -186,7 +185,6 @@ I'm delighted to announce that I've compiled and am now sharing my handwritten n
 ✅ Conditional Rendering 
 ✅ Tailwind CSS 
 ✅ Jest
-You can download the notes in PDF format from the repository link below. I hope you find them as valuable as I do!
 ============================
 𝘼𝙧𝙚 𝙮𝙤𝙪 𝙧𝙚𝙖𝙙𝙮 𝙩𝙤 𝙡𝙚𝙫𝙚𝙡 𝙪𝙥 𝙮𝙤𝙪𝙧 𝙍𝙚𝙖𝙘𝙩 𝙜𝙖𝙢𝙚 𝙖𝙣𝙙 𝙢𝙖𝙨𝙩𝙚𝙧 𝙙𝙖𝙩𝙖 𝙛𝙚𝙩𝙘𝙝𝙞𝙣𝙜 𝙡𝙞𝙠𝙚 𝙖 𝙥𝙧𝙤? 
 Let's dive into the top methods for fetching data in React applications and discover how they can supercharge your development experience!
